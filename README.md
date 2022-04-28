@@ -1,2 +1,2 @@
-# Estudo-e-anotacoes
+# Estudo e anotações
 Organização de alguns estudos
